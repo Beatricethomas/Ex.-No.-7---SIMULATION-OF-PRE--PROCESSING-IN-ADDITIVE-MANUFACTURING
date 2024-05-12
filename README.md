@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 12-5-24
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,13 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+### Name: Beatrice Thomas
+### Register Number: 212223110005
+![image](https://github.com/Beatricethomas/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/140035214/6092bd3f-0fe2-4075-989e-9e70dc2d832c)
 
-## Output:
+![image](https://github.com/Beatricethomas/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/140035214/93da3d4b-21b3-4ba1-9d0f-6c222f107e58)
 
-### Name:
-### Register Number:
+![image](https://github.com/Beatricethomas/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/140035214/1cc2142a-f1c6-47b7-bd88-370e1a4193a4)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
